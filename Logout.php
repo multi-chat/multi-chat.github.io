@@ -1,0 +1,2 @@
+//logout
+$user->logout(); 
